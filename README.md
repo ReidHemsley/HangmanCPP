@@ -4,7 +4,7 @@ I've developed a simple C++ program to demonstrate basic game mechanics using th
 
 My purpose in creating this software is to enhance my understanding of C++ language syntax, particularly in handling file input/output, string manipulation, loops, conditionals, and basic data structures like vectors.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=lxeYpZGpEcY)
 
 # Development Environment
 
